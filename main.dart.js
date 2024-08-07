@@ -78342,7 +78342,7 @@ o=A.b([A.FR(B.D7,new A.ZR(r),B.PB),A.FR(B.D8,new A.ZS(r),B.yg),A.FR(B.D4,new A.Z
 s=A.ap([null,0],t.LO,t.S)
 return new A.xr(new A.tx(p,n,0,B.j,new A.NZ(q,q,1/0,56),q),A.awD(B.BH),new A.EG(200,new A.vJ(new A.a4g(!0,!0,!0,o,s),q,B.aw,!1,q,q,B.yP,!1,q,4,B.ag,B.x6,q,B.a7,q),q),q)}}
 A.ZP.prototype={
-$0(){this.a.jX("https://josterga.github.io/tasklist")},
+$0(){this.a.jX("https://track.emanant.app")},
 $S:0}
 A.ZQ.prototype={
 $0(){var s,r,q=this.a,p=A.wh(q,!0).c
@@ -78364,13 +78364,13 @@ A.ZR.prototype={
 $0(){this.a.jX("https://emanant.app")},
 $S:0}
 A.ZS.prototype={
-$0(){this.a.jX("https://josterga.github.io/tasklist")},
+$0(){this.a.jX("https://track.emanant.app")},
 $S:0}
 A.ZT.prototype={
-$0(){this.a.jX("https://josterga.github.io/pomodoro")},
+$0(){this.a.jX("https://focus.emanant.app")},
 $S:0}
 A.ZU.prototype={
-$0(){this.a.jX("https://josterga.github.io/balancesheet")},
+$0(){this.a.jX("https://balance.emanant.app")},
 $S:0}
 A.uj.prototype={
 ao(){var s=A.b(["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],t.s)
